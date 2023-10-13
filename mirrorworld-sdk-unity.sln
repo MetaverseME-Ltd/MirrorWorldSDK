@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{6E7AB1AE-D830-92BF-4F60-91AB2E8C0CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorworldSDK", "MirrorworldSDK.csproj", "{D1380011-4423-384D-85EA-CD7B65C36962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests.csproj", "{16E7AC29-4FDA-6295-9AC9-8800EB6E01DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E7AB1AE-D830-92BF-4F60-91AB2E8C0CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7AB1AE-D830-92BF-4F60-91AB2E8C0CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7AB1AE-D830-92BF-4F60-91AB2E8C0CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7AB1AE-D830-92BF-4F60-91AB2E8C0CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1380011-4423-384D-85EA-CD7B65C36962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1380011-4423-384D-85EA-CD7B65C36962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1380011-4423-384D-85EA-CD7B65C36962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1380011-4423-384D-85EA-CD7B65C36962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E7AC29-4FDA-6295-9AC9-8800EB6E01DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E7AC29-4FDA-6295-9AC9-8800EB6E01DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E7AC29-4FDA-6295-9AC9-8800EB6E01DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E7AC29-4FDA-6295-9AC9-8800EB6E01DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

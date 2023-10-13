@@ -1,0 +1,175 @@
+{
+    "m_SelectedDeviceId": "ZY3274FFPL",
+    "m_SelectedPackage": {
+        "deviceId": "ZY3274FFPL",
+        "name": "com.DefaultCompany.MirrorSDK",
+        "processId": 5856,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 24982,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 25580,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 27895,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 28430,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 15641,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 19847,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 22441,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 24974,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 25497,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 30238,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 9864,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 11596,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 12350,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 30005,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 2813,
+            "exited": false
+        },
+        {
+            "deviceId": "ZY3274FFPL",
+            "name": "com.DefaultCompany.MirrorSDK",
+            "processId": 5856,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}
