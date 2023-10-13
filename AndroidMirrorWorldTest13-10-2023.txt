@@ -1,0 +1,383 @@
+0001/01/01 00:00:00.000 -1 -1 Info  --------- beginning of main
+2023/10/13 10:08:54.249 2813 2813 Info mpany.MirrorSD Late-enabling -Xcheck:jni
+2023/10/13 10:08:54.306 2813 2813 Error mpany.MirrorSD Unknown bits set in runtime_flags: 0x8000
+2023/10/13 10:08:54.561 2813 2813 Info Mono JNI_OnLoad called
+2023/10/13 10:08:54.562 2813 2813 Debug Unity CommandLine:  
+2023/10/13 10:08:54.580 2813 2813 Debug Unity onActivityResumed: com.unity3d.player.UnityPlayerActivity@9ddabc8
+2023/10/13 10:08:54.581 2813 2813 Info Unity onResume
+2023/10/13 10:08:54.621 2813 2978 Debug Unity SetWindow 0 0xd7193008
+2023/10/13 10:08:54.622 2813 2978 Debug Unity SetWindow 0 0xd7193008
+2023/10/13 10:08:54.625 2813 2813 Warn Gralloc3 mapper 3.x is not supported
+2023/10/13 10:08:54.665 2813 2978 Debug Unity SetWindow 0 0xd7193008
+2023/10/13 10:08:54.682 2813 2813 Info Unity windowFocusChanged: true
+2023/10/13 10:08:54.723 2813 2978 Info Unity MemoryManager: Using 'Dynamic Heap' Allocator.
+2023/10/13 10:08:54.724 2813 2978 Debug Unity [UnityMemory] Configuration Parameters - Can be set up in boot.config
+2023/10/13 10:08:54.724 2813 2978 Debug Unity     "memorysetup-bucket-allocator-granularity=16"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-bucket-allocator-bucket-count=8"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-bucket-allocator-block-size=4194304"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-bucket-allocator-block-count=1"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-main-allocator-block-size=16777216"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-thread-allocator-block-size=16777216"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-gfx-main-allocator-block-size=16777216"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-gfx-thread-allocator-block-size=16777216"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-cache-allocator-block-size=4194304"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-typetree-allocator-block-size=2097152"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-profiler-bucket-allocator-granularity=16"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-profiler-bucket-allocator-bucket-count=8"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-profiler-bucket-allocator-block-size=4194304"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-profiler-bucket-allocator-block-count=1"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-profiler-allocator-block-size=16777216"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-profiler-editor-allocator-block-size=1048576"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-temp-allocator-size-main=4194304"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-job-temp-allocator-block-size=2097152"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-job-temp-allocator-block-size-background=1048576"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-temp-allocator-size-background-worker=32768"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-temp-allocator-size-job-worker=262144"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-temp-allocator-size-preload-manager=262144"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-temp-allocator-size-audio-worker=65536"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-temp-allocator-size-cloud-worker=32768"
+2023/10/13 10:08:54.725 2813 2978 Debug Unity     "memorysetup-temp-allocator-size-gfx=262144"
+2023/10/13 10:08:54.729 2813 2978 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2023/10/13 10:08:54.743 2813 2978 Debug Unity Enabling Unity systrace
+2023/10/13 10:08:54.751 2813 2978 Warn mpany.MirrorSD Accessing hidden method Ljava/lang/invoke/MethodHandles$Lookup;-><init>(Ljava/lang/Class;I)V (greylist, reflection, allowed)
+2023/10/13 10:08:54.761 2813 2978 Debug Unity [VFS] Mount /data/app/com.DefaultCompany.MirrorSDK-OdBUSRrcQpO4JOIg6nE4wg==/base.apk
+2023/10/13 10:08:54.762 2813 2978 Debug Unity Loading player data from /data/app/com.DefaultCompany.MirrorSDK-OdBUSRrcQpO4JOIg6nE4wg==/base.apk/assets/bin/Data/data.unity3d
+2023/10/13 10:08:54.774 2813 2978 Info Unity SystemInfo CPU = ARM64 FP ASIMD AES, Cores = 8, Memory = 3573mb
+2023/10/13 10:08:54.774 2813 2978 Info Unity SystemInfo ARM big.LITTLE configuration: 4 big (mask: 0xf0), 4 little (mask: 0xf)
+2023/10/13 10:08:54.775 2813 2978 Info Unity ApplicationInfo com.DefaultCompany.MirrorSDK version 0.1
+2023/10/13 10:08:54.775 2813 2978 Info Unity Built from '2021.3/staging' branch, Version '2021.3.8f1 (b30333d56e81)', Build type 'Development', Scripting Backend 'mono', CPU 'armeabi-v7a', Stripping 'Disabled'
+2023/10/13 10:08:54.778 2813 2978 Debug Unity Mono path[0] = '/data/app/com.DefaultCompany.MirrorSDK-OdBUSRrcQpO4JOIg6nE4wg==/base.apk/assets/bin/Data/Managed'
+2023/10/13 10:08:54.778 2813 2978 Debug Unity Mono config path = 'assets/bin/Data/Managed/etc'
+2023/10/13 10:08:54.780 2813 2978 Debug Unity Found 1 interfaces on host :
+2023/10/13 10:08:54.780 2813 2978 Debug Unity  0) 192.168.1.147
+2023/10/13 10:08:54.780 2813 2978 Debug Unity 
+2023/10/13 10:08:54.782 2813 2978 Debug Unity Multi-casting "[IP] 192.168.1.147 [Port] 55268 [Flags] 2 [Guid] 1626804016 [EditorId] 3870784527 [Version] 1048832 [Id] AndroidPlayer(11,motorola_moto_g(7)_power@192.168.1.147) [Debug] 0 [PackageName] AndroidPlayer [ProjectName] MirrorSDK" to [225.0.0.222:54997]...
+2023/10/13 10:08:54.928 2813 2978 Debug Unity [EGL] Attaching window :0xd7193008
+2023/10/13 10:08:54.928 2813 2978 Debug Unity InitializeScriptEngine OK (0xd3ea3e80)
+2023/10/13 10:08:54.934 2813 2978 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2023/10/13 10:08:54.935 2813 2978 Info chatty uid=10002(com.DefaultCompany.MirrorSDK) UnityMain identical 14 lines
+2023/10/13 10:08:54.935 2813 2978 Error libprocessgroup set_timerslack_ns write failed: Operation not permitted
+2023/10/13 10:08:54.950 2813 2978 Debug Unity Loading player data from assets/bin/Data/data.unity3d
+2023/10/13 10:08:54.952 2813 2978 Debug Unity PlayerInitEngineNoGraphics OK
+2023/10/13 10:08:54.952 2813 2978 Info Unity Company Name: DefaultCompany
+2023/10/13 10:08:54.952 2813 2978 Info Unity Product Name: MirrorSDK
+2023/10/13 10:08:54.952 2813 2978 Debug Unity AndroidGraphics::Startup window =  0xd7193008
+2023/10/13 10:08:54.952 2813 2978 Debug Unity [EGL] Attaching window :0xd7193008
+2023/10/13 10:08:54.956 2813 2978 Debug Unity [Subsystems] Discovering subsystems at path /data/app/com.DefaultCompany.MirrorSDK-OdBUSRrcQpO4JOIg6nE4wg==/base.apk/assets/bin/Data/UnitySubsystems
+2023/10/13 10:08:54.966 2813 2978 Debug vulkan searching for layers in '/data/app/com.DefaultCompany.MirrorSDK-OdBUSRrcQpO4JOIg6nE4wg==/lib/arm'
+2023/10/13 10:08:54.966 2813 2978 Debug vulkan searching for layers in '/data/app/com.DefaultCompany.MirrorSDK-OdBUSRrcQpO4JOIg6nE4wg==/base.apk!/lib/armeabi-v7a'
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: count=10
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_android_surface, enabled=1
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_EXT_swapchain_colorspace, enabled=1
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_EXT_debug_report, enabled=1
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=1
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+2023/10/13 10:08:54.966 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+2023/10/13 10:08:54.968 2813 2978 Info AdrenoVK QUALCOMM build          : 961b24f, Ib57168459a
+2023/10/13 10:08:54.968 2813 2978 Info AdrenoVK Build Date              : 02/24/20
+2023/10/13 10:08:54.968 2813 2978 Info AdrenoVK Shader Compiler Version : EV031.27.05.06
+2023/10/13 10:08:54.968 2813 2978 Info AdrenoVK Local Branch            : 
+2023/10/13 10:08:54.968 2813 2978 Info AdrenoVK Remote Branch           : 
+2023/10/13 10:08:54.968 2813 2978 Info AdrenoVK Remote Branch           : 
+2023/10/13 10:08:54.968 2813 2978 Info AdrenoVK Reconstruct Branch      : 
+2023/10/13 10:08:54.968 2813 2978 Info AdrenoVK Build Config            : S L 8.0.12 AArch32
+2023/10/13 10:08:54.968 2813 2978 Debug Unity [Vulkan init] SelectPhysicalDevice requestedDeviceIndex=-1 xrDevice=0x0
+2023/10/13 10:08:54.968 2813 2978 Debug Unity [Vulkan init] Physical Device 0xb7310d58 [0]: "Adreno (TM) 506" deviceType=1 vendorID=5143 deviceID=5000600
+2023/10/13 10:08:54.968 2813 2978 Debug Unity Vulkan detection: 2
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: count=10
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_surface, enabled=1
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_android_surface, enabled=1
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_EXT_swapchain_colorspace, enabled=1
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2, enabled=0
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_EXT_debug_report, enabled=1
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2, enabled=1
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities, enabled=0
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_memory_capabilities, enabled=0
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_device_group_creation, enabled=0
+2023/10/13 10:08:54.969 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_fence_capabilities, enabled=0
+2023/10/13 10:08:54.969 2813 2978 Info AdrenoVK QUALCOMM build          : 961b24f, Ib57168459a
+2023/10/13 10:08:54.969 2813 2978 Info AdrenoVK Build Date              : 02/24/20
+2023/10/13 10:08:54.969 2813 2978 Info AdrenoVK Shader Compiler Version : EV031.27.05.06
+2023/10/13 10:08:54.969 2813 2978 Info AdrenoVK Local Branch            : 
+2023/10/13 10:08:54.969 2813 2978 Info AdrenoVK Remote Branch           : 
+2023/10/13 10:08:54.969 2813 2978 Info AdrenoVK Remote Branch           : 
+2023/10/13 10:08:54.969 2813 2978 Info AdrenoVK Reconstruct Branch      : 
+2023/10/13 10:08:54.969 2813 2978 Info AdrenoVK Build Config            : S L 8.0.12 AArch32
+2023/10/13 10:08:54.971 2813 2978 Debug Unity [Vulkan init] SelectPhysicalDevice requestedDeviceIndex=-1 xrDevice=0x0
+2023/10/13 10:08:54.971 2813 2978 Debug Unity [Vulkan init] Physical Device 0xb7310d60 [0]: "Adreno (TM) 506" deviceType=1 vendorID=5143 deviceID=5000600
+2023/10/13 10:08:54.971 2813 2978 Debug Unity [Vulkan init] Selected physical device 0xb7310d60
+2023/10/13 10:08:54.971 2813 2978 Debug Unity [Vulkan init] Graphics queue count=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: count=32
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_incremental_present, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_shared_presentable_image, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_GOOGLE_display_timing, enabled=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_memory, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_get_memory_requirements2, enabled=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_semaphore_fd, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_memory_fd, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_maintenance1, enabled=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_maintenance2, enabled=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_maintenance3, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_EXT_queue_family_foreign, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_bind_memory2, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_semaphore, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_sampler_ycbcr_conversion, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_variable_pointers, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_push_descriptor, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_device_group, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_relaxed_block_layout, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_fence, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_multiview, enabled=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_storage_buffer_storage_class, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_EXT_sampler_filter_minmax, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_create_renderpass2, enabled=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_EXT_global_priority, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_shader_draw_parameters, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_descriptor_update_template, enabled=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_driver_properties, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_ANDROID_external_memory_android_hardware_buffer, enabled=0
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_dedicated_allocation, enabled=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_swapchain, enabled=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_sampler_mirror_clamp_to_edge, enabled=1
+2023/10/13 10:08:54.974 2813 2978 Debug Unity [Vulkan init] extensions: name=VK_KHR_external_fence_fd, enabled=0
+2023/10/13 10:08:54.976 2813 2978 Debug Unity Vulkan API version 1.1.0 (1.1.87 supported by driver, 1.1.0 requested)
+2023/10/13 10:08:54.976 2813 2978 Debug Unity Vulkan vendor=[Qualcomm] id=[5143]
+2023/10/13 10:08:54.976 2813 2978 Debug Unity Vulkan renderer=[Adreno (TM) 506] id=[5000600]
+2023/10/13 10:08:54.976 2813 2978 Debug Unity Vulkan device type 1
+2023/10/13 10:08:54.976 2813 2978 Debug Unity Vulkan driverversion=[512.415.0] uint=[-2145783808]
+2023/10/13 10:08:54.977 2813 2978 Debug Unity VK use pretransform: 1
+2023/10/13 10:08:54.988 2813 2978 Debug Unity Vulkan PSO: Cache data successfully loaded [size=45372,path=/storage/emulated/0/Android/data/com.DefaultCompany.MirrorSDK/cache/vulkan_pso_cache.bin]
+2023/10/13 10:08:54.991 2813 2978 Debug Unity [EGL] Attaching window :0x0
+2023/10/13 10:08:54.995 2813 2978 Debug Unity AndroidDisplayManagerVulkan::AttachWindow(0xd7193008, 0)
+2023/10/13 10:08:54.996 2813 2978 Debug Unity InitializeOrResetSwapChain 1520x720 hdr=0 samples=0
+2023/10/13 10:08:55.017 2813 3074 Info SwappyDisplayManager Starting looper thread
+2023/10/13 10:08:55.018 2813 2978 Verbose SwappyVk SwappyVk initialized for VkDevice 0xb7310db0 using VK_GOOGLE_display_timing on Android
+2023/10/13 10:08:55.018 2813 2978 Info SwappyVk Returning refresh duration of 16666666 nsec (approx 60.000002 Hz)
+2023/10/13 10:08:55.027 2813 2978 Verbose MediaRouter Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+2023/10/13 10:08:55.028 2813 2978 Debug Unity AndroidDisplayManagerVulkan::AttachWindow(0xd7193008, 0)
+2023/10/13 10:08:55.028 2813 2978 Debug Unity Initialize engine version: 2021.3.8f1 (b30333d56e81)
+2023/10/13 10:08:55.048 2813 2978 Debug Unity Begin MonoManager ReloadAssembly
+2023/10/13 10:08:55.056 2813 3090 Warn AudioTrack Use of stream types is deprecated for operations other than volume control
+2023/10/13 10:08:55.057 2813 3090 Warn AudioTrack See the documentation of AudioTrack() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+2023/10/13 10:08:55.060 2813 2813 Verbose MediaRouter Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+2023/10/13 10:08:55.354 2813 2978 Info MONO Getting locale
+2023/10/13 10:08:55.354 2813 2978 Info Mono Locale en-GB
+2023/10/13 10:08:55.608 2813 2978 Debug Unity - Completed reload, in  0.560 seconds
+2023/10/13 10:08:55.786 2813 2978 Debug Unity PlayerInitEngineGraphics OK
+2023/10/13 10:08:55.790 2813 2978 Debug Unity Found 37 native sensors
+2023/10/13 10:08:55.793 2813 2978 Debug Unity Sensor :        Accelerometer ( 1) ; 0.002396 / 0.00s ; BMI160 Accelerometer / BOSCH 
+2023/10/13 10:08:55.796 2813 2978 Debug Unity Sensor :        Accelerometer ( 1) ; 0.002396 / 0.00s ; BMI160 Accelerometer / BOSCH 
+2023/10/13 10:08:55.802 2813 2978 Debug Unity SetWindow 0 0xd7193008
+2023/10/13 10:08:55.802 2813 2978 Debug Unity AndroidDisplayManagerVulkan::AttachWindow(0xd7193008, 0)
+2023/10/13 10:08:55.805 2813 2978 Debug Unity InitializeOrResetSwapChain 1520x720 hdr=0 samples=0
+2023/10/13 10:08:55.808 2813 3074 Info SwappyDisplayManager Terminating looper thread
+2023/10/13 10:08:55.827 2813 3128 Info SwappyDisplayManager Starting looper thread
+2023/10/13 10:08:55.827 2813 2978 Verbose SwappyVk SwappyVk initialized for VkDevice 0xb7310db0 using VK_GOOGLE_display_timing on Android
+2023/10/13 10:08:55.827 2813 2978 Info SwappyVk Returning refresh duration of 16666666 nsec (approx 60.000002 Hz)
+2023/10/13 10:08:57.903 2813 2978 Debug Unity UnloadTime: 3.473803 ms
+2023/10/13 10:08:57.908 2813 2978 Debug Unity UUID: c4c606f19e1efe19 => beef3daf5215b76f569a7e9726c4676a
+2023/10/13 10:08:58.263 2813 2978 Info Unity Unity apikey:mw_i5icAfiPIST6Nbz0b2wAbJbGBNZelCU9F4d
+2023/10/13 10:08:58.263 2813 2978 Info Unity UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+2023/10/13 10:08:58.263 2813 2978 Info Unity UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+2023/10/13 10:08:58.263 2813 2978 Info Unity UnityEngine.Logger:Log (UnityEngine.LogType,object)
+2023/10/13 10:08:58.263 2813 2978 Info Unity UnityEngine.Debug:Log (object)
+2023/10/13 10:08:58.263 2813 2978 Info Unity MirrorSDK:Awake () (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/MirrorSDK.cs:36)
+2023/10/13 10:08:58.263 2813 2978 Info Unity 
+2023/10/13 10:08:58.285 2813 2978 Info Unity env:Devnet
+2023/10/13 10:08:58.285 2813 2978 Info Unity UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+2023/10/13 10:08:58.285 2813 2978 Info Unity UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+2023/10/13 10:08:58.285 2813 2978 Info Unity UnityEngine.Logger:Log (UnityEngine.LogType,object)
+2023/10/13 10:08:58.285 2813 2978 Info Unity UnityEngine.Debug:Log (object)
+2023/10/13 10:08:58.285 2813 2978 Info Unity MirrorSDK:InitSDK (string,UnityEngine.GameObject,MirrorworldSDK.MirrorChain,bool,MirrorworldSDK.MirrorEnv) (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/MirrorSDK.cs:51)
+2023/10/13 10:08:58.285 2813 2978 Info Unity MirrorSDK:Awake () (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/MirrorSDK.cs:42)
+2023/10/13 10:08:58.285 2813 2978 Info Unity 
+2023/10/13 10:08:58.290 2813 2978 Info Unity MirrorSDKUnity:Unity wrapper inited.
+2023/10/13 10:08:58.290 2813 2978 Info Unity UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+2023/10/13 10:08:58.290 2813 2978 Info Unity UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+2023/10/13 10:08:58.290 2813 2978 Info Unity UnityEngine.Logger:Log (UnityEngine.LogType,object)
+2023/10/13 10:08:58.290 2813 2978 Info Unity UnityEngine.Debug:Log (object)
+2023/10/13 10:08:58.290 2813 2978 Info Unity MirrorworldSDK.Wrapper.MirrorWrapper:LogFlow (string) (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/Services/Implementations/Unity/MirrorWrapperUnityLaunch.cs:104)
+2023/10/13 10:08:58.290 2813 2978 Info Unity MirrorworldSDK.Wrapper.MirrorWrapper:InitSDK (UnityEngine.MonoBehaviour,MirrorworldSDK.MirrorEnv,MirrorworldSDK.MirrorChain,string,bool) (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/Services/Implementations/Unity/MirrorWrapperUnityLaunch.cs:37)
+2023/10/13 10:08:58.290 2813 2978 Info Unity MirrorSDK:InitSDK (string,UnityEngine.GameObject,MirrorworldSDK.MirrorChain,bool,MirrorworldSDK.MirrorEnv) (at C:/development
+2023/10/13 10:08:58.380 2813 2978 Debug MirrorSDK Version 2.0.0
+2023/10/13 10:08:58.380 2813 2978 Debug MirrorSDK2.0.0 init sdk,context is not null:com.unity3d.player.UnityPlayerActivity@9ddabc8
+2023/10/13 10:08:58.387 2813 2978 Debug MirrorSDK2.0.0 init sdk,chain is:Solana
+2023/10/13 10:08:58.387 2813 2978 Debug MirrorSDK2.0.0 init sdk,environment is:DevNet
+2023/10/13 10:08:58.390 2813 2978 Debug MirrorSDK2.0.0 Set APIKey:mw_i5icAfiPIST6Nbz0b2wAbJbGBNZelCU9F4d
+2023/10/13 10:08:58.411 2813 2978 Debug MirrorSDK2.0.0 setAuthTokenCallback seted!
+2023/10/13 10:08:58.413 2813 2978 Debug MirrorSDK2.0.0 Set constant login string callback result:true
+2023/10/13 10:08:58.414 2813 2978 Debug MirrorSDK Set debug to:true
+2023/10/13 10:08:58.433 2813 2978 Debug Unity Sensor :        Accelerometer ( 1) ; 0.002396 / 0.00s ; BMI160 Accelerometer / BOSCH 
+2023/10/13 10:08:58.439 2813 2978 Debug Unity Choreographer available: Enabling VSYNC timing
+2023/10/13 10:08:58.518 2813 3027 Debug NetworkSecurityConfig No Network Security Config specified, using platform default
+2023/10/13 10:09:02.824 2813 2978 Info Unity MirrorSDKUnity:Start login logic...
+2023/10/13 10:09:02.824 2813 2978 Info Unity UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+2023/10/13 10:09:02.824 2813 2978 Info Unity UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+2023/10/13 10:09:02.824 2813 2978 Info Unity UnityEngine.Logger:Log (UnityEngine.LogType,object)
+2023/10/13 10:09:02.824 2813 2978 Info Unity UnityEngine.Debug:Log (object)
+2023/10/13 10:09:02.824 2813 2978 Info Unity MirrorworldSDK.Wrapper.MirrorWrapper:LogFlow (string) (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/Services/Implementations/Unity/MirrorWrapperUnityLaunch.cs:104)
+2023/10/13 10:09:02.824 2813 2978 Info Unity MirrorSDK:StartLogin (System.Action`1<MirrorworldSDK.Models.LoginResponse>) (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/MirrorSDK.cs:114)
+2023/10/13 10:09:02.824 2813 2978 Info Unity HandleLogin:Login () (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/Scenes/Test/HandleLogin.cs:21)
+2023/10/13 10:09:02.824 2813 2978 Info Unity UnityEngine.Events.InvokableCall:Invoke () (at /Users/bokken/buildslave/unity/build/Runti
+2023/10/13 10:09:02.825 2813 2978 Info Unity MirrorSDKUnity:Start login in android...
+2023/10/13 10:09:02.825 2813 2978 Info Unity UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+2023/10/13 10:09:02.825 2813 2978 Info Unity UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+2023/10/13 10:09:02.825 2813 2978 Info Unity UnityEngine.Logger:Log (UnityEngine.LogType,object)
+2023/10/13 10:09:02.825 2813 2978 Info Unity UnityEngine.Debug:Log (object)
+2023/10/13 10:09:02.825 2813 2978 Info Unity MirrorworldSDK.Wrapper.MirrorWrapper:LogFlow (string) (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/Services/Implementations/Unity/MirrorWrapperUnityLaunch.cs:104)
+2023/10/13 10:09:02.825 2813 2978 Info Unity MirrorSDK:StartLogin (System.Action`1<MirrorworldSDK.Models.LoginResponse>) (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/MirrorSDK.cs:161)
+2023/10/13 10:09:02.825 2813 2978 Info Unity HandleLogin:Login () (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/Scenes/Test/HandleLogin.cs:21)
+2023/10/13 10:09:02.825 2813 2978 Info Unity UnityEngine.Events.InvokableCall:Invoke () (at /Users/bokken/buildslave/unity/build/
+2023/10/13 10:09:02.856 2813 2978 Debug MirrorSDK2.0.0 Try to open url with custom tab:https://auth-next.mirrorworld.fun/v1/auth/login?useSchemeRedirect=true&scheme=mwsdkunity
+2023/10/13 10:09:02.907 2813 2813 Info Unity onPause
+2023/10/13 10:09:02.912 2813 2978 Debug Unity Vulkan PSO: Pipeline cache has not changed skipping save handle[c00596e0]
+2023/10/13 10:09:02.950 2813 3090 Debug AudioTrack stop(27): called with 191488 frames delivered
+2023/10/13 10:09:02.959 2813 2978 Debug Unity Sensor :        Accelerometer ( 1) ; 0.002396 / 0.00s ; BMI160 Accelerometer / BOSCH 
+2023/10/13 10:09:02.973 2813 2813 Info Unity windowFocusChanged: false
+2023/10/13 10:09:03.099 2813 2813 Debug Unity PersistentUnitySurface.preserveContent: android.view.SurfaceView{13122a6 VFE...... .F....I. 0,0-1520,720 #7f050048 app:id/unitySurfaceView}
+2023/10/13 10:09:03.100 2813 2813 Debug Unity PersistentUnitySurface.PlaceholderView.Copy: android.view.SurfaceView{13122a6 VFE...... .F....I. 0,0-1520,720 #7f050048 app:id/unitySurfaceView}
+2023/10/13 10:09:03.118 2813 3191 Info AdrenoGLES QUALCOMM build                   : 961b24f, Ib57168459a
+2023/10/13 10:09:03.118 2813 3191 Info AdrenoGLES Build Date                       : 02/24/20
+2023/10/13 10:09:03.118 2813 3191 Info AdrenoGLES OpenGL ES Shader Compiler Version: EV031.27.05.06
+2023/10/13 10:09:03.118 2813 3191 Info AdrenoGLES Local Branch                     : 
+2023/10/13 10:09:03.118 2813 3191 Info AdrenoGLES Remote Branch                    : 
+2023/10/13 10:09:03.118 2813 3191 Info AdrenoGLES Remote Branch                    : 
+2023/10/13 10:09:03.118 2813 3191 Info AdrenoGLES Reconstruct Branch               : 
+2023/10/13 10:09:03.118 2813 3191 Info AdrenoGLES Build Config                     : S L 8.0.12 AArch32
+2023/10/13 10:09:03.124 2813 3191 Info AdrenoGLES PFP: 0x005ff113, ME: 0x005ff066
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue Handler (android.hardware.display.DisplayManagerGlobal$DisplayListenerDelegate) {cde84e7} sending message to a Handler on a dead thread
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue java.lang.IllegalStateException: Handler (android.hardware.display.DisplayManagerGlobal$DisplayListenerDelegate) {cde84e7} sending message to a Handler on a dead thread
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:567)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.os.Handler.enqueueMessage(Handler.java:754)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.os.Handler.sendMessageAtTime(Handler.java:703)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.os.Handler.sendMessageDelayed(Handler.java:673)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.os.Handler.sendMessage(Handler.java:611)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal$DisplayListenerDelegate.sendDisplayEvent(DisplayManagerGlobal.java:685)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal.handleDisplayEvent(DisplayManagerGlobal.java:333)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal.access$100(DisplayManagerGlobal.java:55)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal$DisplayManagerCallback.onDisplayEvent(DisplayManagerGlobal.java:671)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.hardware.display.IDisplayManagerCallback$Stub.onTransact(IDisplayManagerCallback.java:84)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.os.Binder.execTransactInternal(Binder.java:1036)
+2023/10/13 10:09:03.144 2813 2979 Warn MessageQueue 	at android.os.Binder.execTransact(Binder.java:1003)
+2023/10/13 10:09:03.226 2813 2978 Debug Unity SetWindow 0 0x0
+2023/10/13 10:09:03.232 2813 3128 Info SwappyDisplayManager Terminating looper thread
+2023/10/13 10:09:03.262 2813 2813 Debug Unity onPixelCopyFinished: 0
+2023/10/13 10:09:22.594 2813 2813 Warn ActivityThread handleWindowVisibility: no activity for token android.os.BinderProxy@ffd29df
+2023/10/13 10:09:22.618 2813 2813 Debug RedirectActivity onCreate
+2023/10/13 10:09:22.619 2813 2813 Debug MirrorSDK2.0.0 Scheme origin:mwsdkunity://userinfo?data=%7B%22id%22%3A23736%2C%22eth_address%22%3Anull%2C%22sol_address%22%3Anull%2C%22sui_address%22%3Anull%2C%22aptos_address%22%3Anull%2C%22email%22%3A%22mvmemirrorworld%40gmail.com%22%2C%22email_verified%22%3Atrue%2C%22username%22%3A%22magenta-pretty%22%2C%22main_user_id%22%3Anull%2C%22allow_spend%22%3Atrue%2C%22has_security%22%3Afalse%2C%22createdAt%22%3A%222023-09-13T10%3A59%3A56.000Z%22%2C%22updatedAt%22%3A%222023-09-13T11%3A04%3A07.000Z%22%2C%22is_subaccount%22%3Afalse%2C%22wallet%22%3A%7B%22eth_address%22%3A%220x7c33FC88c0E833F1748E07b1360d661588660Fb4%22%2C%22sol_address%22%3A%229EMHqLo6XB4iDp23wSLBCeYTrCfUPTx6QCkW2hABpHcE%22%2C%22sui_address%22%3A%220x60c62684b08ab25a385acdfae5fde0d2abba483474ebfdc3af71cf91a92d5042%22%2C%22aptos_address%22%3Anull%7D%7D&access_token=%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjM3MzYsImV0aF9hZGRyZXNzIjoiMHg3YzMzRkM4OGMwRTgzM0YxNzQ4RTA3YjEzNjBkNjYxNTg4NjYwRmI0Iiwic29sX2FkZHJlc3MiOiI5RU1IcUxvNlhCNGlEcDIzd1NMQkNlWVRyQ2ZVUFR4NlFDa1cyaEFCcEhjRSIsInN1aV9hZGRyZXNzIjoiMHg2MGM2MjY4NGIwOGFiMjVhMzg1YWNkZmFlNWZkZTBkMmFiYmE0ODM0NzRlYmZkYzNhZjcxY2Y5MWE5MmQ1MDQyIiwiYXB0b3NfYWRkcmVzcyI6bnVsbCwiZW1haWwiOiJtdm1lbWlycm9yd29ybGRAZ21haWwuY29tIiwid2FsbGV0Ijp7ImV0aF9hZGRyZXNzIjoiMHg3YzMzRkM4OGMwRTgzM0YxNzQ4RTA3YjEzNjBkNjYxNTg4NjYwRmI0Iiwic29sX2FkZHJlc3MiOiI5RU1IcUxvNlhCNGlEcDIzd1NMQkNlWVRyQ2ZVUFR4NlFDa1cyaEFCcEhjRSIsInN1aV9hZGRyZXNzIjoiMHg2MGM2MjY4NGIwOGFiMjVhMzg1YWNkZmFlNWZkZTBkMmFiYmE0ODM0NzRlYmZkYzNhZjcxY2Y5MWE5MmQ1MDQyIiwiYXB0b3NfYWRkcmVzcyI6bnVsbH0sImNsaWVudF9pZCI6Ik5EdWpMQmlYcXdXNEdjT01DVWlUYlNCUVN0bXN1YzF0cTFobS5ZMFpxWEZjYy5taXJyb3J3b3JsZC5mdW4iLCJ0eXBlIjoiYWNjZXNzX3Rva2VuIiwicmVmcmVzaF90b2tlbl9pZCI6ODEyMTAsImlhdCI6MTY5NzE4ODE1OCwiZXhwIjoxNzA0OTY0MTU4LCJpc3MiOiJORHVqTEJpWHF3VzRHY09NQ1VpVGJTQlFTdG1zdWMxdHExaG0uWTBacVhGY2MubWlycm9yd29ybGQuZnVuIiwianRpIjoiYXV0aDoyMzczNiJ9.4yYQHa-1ghP09Hj5PvsmOM_HWwIyWPIBZJeolWQLMSE%22&refresh_token=%22djXB-vEUU1cMk6xD0t76h%22#Intent;category=android.intent.category.BROWSABLE;launchFlags=0x14000000;component=com.DefaultCompany.MirrorSDK/com.mirror.sdk.activities.RedirectActivity;S.com.android.browser.application_id=com.android.chrome;end
+2023/10/13 10:09:22.622 2813 2813 Debug MirrorSDK2.0.0 Scheme decoded:mwsdkunity://userinfo?data={"id":23736,"eth_address":null,"sol_address":null,"sui_address":null,"aptos_address":null,"email":"mvmemirrorworld@gmail.com","email_verified":true,"username":"magenta-pretty","main_user_id":null,"allow_spend":true,"has_security":false,"createdAt":"2023-09-13T10:59:56.000Z","updatedAt":"2023-09-13T11:04:07.000Z","is_subaccount":false,"wallet":{"eth_address":"0x7c33FC88c0E833F1748E07b1360d661588660Fb4","sol_address":"9EMHqLo6XB4iDp23wSLBCeYTrCfUPTx6QCkW2hABpHcE","sui_address":"0x60c62684b08ab25a385acdfae5fde0d2abba483474ebfdc3af71cf91a92d5042","aptos_address":null}}&access_token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjM3MzYsImV0aF9hZGRyZXNzIjoiMHg3YzMzRkM4OGMwRTgzM0YxNzQ4RTA3YjEzNjBkNjYxNTg4NjYwRmI0Iiwic29sX2FkZHJlc3MiOiI5RU1IcUxvNlhCNGlEcDIzd1NMQkNlWVRyQ2ZVUFR4NlFDa1cyaEFCcEhjRSIsInN1aV9hZGRyZXNzIjoiMHg2MGM2MjY4NGIwOGFiMjVhMzg1YWNkZmFlNWZkZTBkMmFiYmE0ODM0NzRlYmZkYzNhZjcxY2Y5MWE5MmQ1MDQyIiwiYXB0b3NfYWRkcmVzcyI6bnVsbCwiZW1haWwiOiJtdm1lbWlycm9yd29ybGRAZ21haWwuY29tIiwid2FsbGV0Ijp7ImV0aF9hZGRyZXNzIjoiMHg3YzMzRkM4OGMwRTgzM0YxNzQ4RTA3YjEzNjBkNjYxNTg4NjYwRmI0Iiwic29sX2FkZHJlc3MiOiI5RU1IcUxvNlhCNGlEcDIzd1NMQkNlWVRyQ2ZVUFR4NlFDa1cyaEFCcEhjRSIsInN1aV9hZGRyZXNzIjoiMHg2MGM2MjY4NGIwOGFiMjVhMzg1YWNkZmFlNWZkZTBkMmFiYmE0ODM0NzRlYmZkYzNhZjcxY2Y5MWE5MmQ1MDQyIiwiYXB0b3NfYWRkcmVzcyI6bnVsbH0sImNsaWVudF9pZCI6Ik5EdWpMQmlYcXdXNEdjT01DVWlUYlNCUVN0bXN1YzF0cTFobS5ZMFpxWEZjYy5taXJyb3J3b3JsZC5mdW4iLCJ0eXBlIjoiYWNjZXNzX3Rva2VuIiwicmVmcmVzaF90b2tlbl9pZCI6ODEyMTAsImlhdCI6MTY5NzE4ODE1OCwiZXhwIjoxNzA0OTY0MTU4LCJpc3MiOiJORHVqTEJpWHF3VzRHY09NQ1VpVGJTQlFTdG1zdWMxdHExaG0uWTBacVhGY2MubWlycm9yd29ybGQuZnVuIiwianRpIjoiYXV0aDoyMzczNiJ9.4yYQHa-1ghP09Hj5PvsmOM_HWwIyWPIBZJeolWQLMSE"&refresh_token="djXB-vEUU1cMk6xD0t76h"
+2023/10/13 10:09:22.626 2813 2813 Debug MirrorSDK2.0.0 save refresh token to local:djXB-vEUU1cMk6xD0t76hcom.unity3d.player.UnityPlayerActivity@9ddabc8
+2023/10/13 10:09:22.639 2813 2813 Debug MirrorSDK2.0.0 receive login response:{
+2023/10/13 10:09:22.639 2813 2813 Debug MirrorSDK2.0.0         "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjM3MzYsImV0aF9hZGRyZXNzIjoiMHg3YzMzRkM4OGMwRTgzM0YxNzQ4RTA3YjEzNjBkNjYxNTg4NjYwRmI0Iiwic29sX2FkZHJlc3MiOiI5RU1IcUxvNlhCNGlEcDIzd1NMQkNlWVRyQ2ZVUFR4NlFDa1cyaEFCcEhjRSIsInN1aV9hZGRyZXNzIjoiMHg2MGM2MjY4NGIwOGFiMjVhMzg1YWNkZmFlNWZkZTBkMmFiYmE0ODM0NzRlYmZkYzNhZjcxY2Y5MWE5MmQ1MDQyIiwiYXB0b3NfYWRkcmVzcyI6bnVsbCwiZW1haWwiOiJtdm1lbWlycm9yd29ybGRAZ21haWwuY29tIiwid2FsbGV0Ijp7ImV0aF9hZGRyZXNzIjoiMHg3YzMzRkM4OGMwRTgzM0YxNzQ4RTA3YjEzNjBkNjYxNTg4NjYwRmI0Iiwic29sX2FkZHJlc3MiOiI5RU1IcUxvNlhCNGlEcDIzd1NMQkNlWVRyQ2ZVUFR4NlFDa1cyaEFCcEhjRSIsInN1aV9hZGRyZXNzIjoiMHg2MGM2MjY4NGIwOGFiMjVhMzg1YWNkZmFlNWZkZTBkMmFiYmE0ODM0NzRlYmZkYzNhZjcxY2Y5MWE5MmQ1MDQyIiwiYXB0b3NfYWRkcmVzcyI6bnVsbH0sImNsaWVudF9pZCI6Ik5EdWpMQmlYcXdXNEdjT01DVWlUYlNCUVN0bXN1YzF0cTFobS5ZMFpxWEZjYy5taXJyb3J3b3JsZC5mdW4iLCJ0eXBlIjoiYWNjZXNzX3Rva2VuIiwicmVmcmVzaF90b2tlbl9pZCI6ODEyMTAsImlhdCI6MTY5NzE4ODE1OCwiZXhwIjoxNzA0OTY0MTU4LCJpc3MiOiJORHVqTEJpWHF3VzRHY09NQ1VpVGJTQlFTdG1zdWMxdHExaG0uWTBacVhGY2MubWlycm9yd29ybGQuZnVuIiwianRpIjoiYXV0aDoyMzczNiJ9.4yYQHa-1ghP09Hj5PvsmOM_HWwIyWPIBZJeolWQLMSE",
+2023/10/13 10:09:22.639 2813 2813 Debug MirrorSDK2.0.0         "refresh_token": "djXB-vEUU1cMk6xD0t76h",
+2023/10/13 10:09:22.639 2813 2813 Debug MirrorSDK2.0.0         "user": {"id":23736,"eth_address":null,"sol_address":null,"sui_address":null,"aptos_address":null,"email":"mvmemirrorworld@gmail.com","email_verified":true,"username":"magenta-pretty","main_user_id":null,"allow_spend":true,"has_security":false,"createdAt":"2023-09-13T10:59:56.000Z","updatedAt":"2023-09-13T11:04:07.000Z","is_subaccount":false,"wallet":{"eth_address":"0x7c33FC88c0E833F1748E07b1360d661588660Fb4","sol_address":"9EMHqLo6XB4iDp23wSLBCeYTrCfUPTx6QCkW2hABpHcE","sui_address":"0x60c62684b08ab25a385acdfae5fde0d2abba483474ebfdc3af71cf91a92d5042","aptos_address":null}}
+2023/10/13 10:09:22.639 2813 2813 Debug MirrorSDK2.0.0     }
+2023/10/13 10:09:22.672 2813 2813 Debug MirrorSDK2.0.0 save refresh token to local:djXB-vEUU1cMk6xD0t76hcom.unity3d.player.UnityPlayerActivity@9ddabc8
+2023/10/13 10:09:22.702 2813 2813 Debug MirrorSDK2.0.0 cbLogin:null  cbStringLogin:MirrorworldSDK.Wrapper.MirrorCallback <c# proxy java object>
+2023/10/13 10:09:22.702 2813 2813 Debug MirrorSDK2.0.0 login success and MirrorCallback callback called.
+2023/10/13 10:09:22.800 2813 2813 Error Unity UnityException: TrySetSetString can only be called from the main thread.
+2023/10/13 10:09:22.800 2813 2813 Error Unity Constructors and field initializers will be executed from the loading thread when loading a scene.
+2023/10/13 10:09:22.800 2813 2813 Error Unity Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+2023/10/13 10:09:22.800 2813 2813 Error Unity   at (wrapper managed-to-native) UnityEngine.PlayerPrefs.TrySetSetString(string,string)
+2023/10/13 10:09:22.800 2813 2813 Error Unity   at UnityEngine.PlayerPrefs.SetString (System.String key, System.String value) [0x00001] in /Users/bokken/buildslave/unity/build/Runtime/Export/PlayerPrefs/PlayerPrefs.bindings.cs:49 
+2023/10/13 10:09:22.800 2813 2813 Error Unity   at MirrorworldSDK.Wrapper.MirrorWrapper.SaveStringToLocal (System.String key, System.String value) [0x00001] in C:\MirrorWorldFresh\mirrorworld-sdk-unity\Assets\MirrorMarketSDK\Runtime\Services\Implementations\Unity\MirrorWrapperUnityUtils.cs:234 
+2023/10/13 10:09:22.800 2813 2813 Error Unity   at MirrorworldSDK.Wrapper.MirrorWrapper.UpdateRefreshToken (System.String newRefreshToken) [0x00008] in C:\MirrorWorldF
+2023/10/13 10:09:22.800 2813 2813 Debug MirrorSDK2.0.0 constant login string callback called:{
+2023/10/13 10:09:22.800 2813 2813 Debug MirrorSDK2.0.0         "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjM3MzYsImV0aF9hZGRyZXNzIjoiMHg3YzMzRkM4OGMwRTgzM0YxNzQ4RTA3YjEzNjBkNjYxNTg4NjYwRmI0Iiwic29sX2FkZHJlc3MiOiI5RU1IcUxvNlhCNGlEcDIzd1NMQkNlWVRyQ2ZVUFR4NlFDa1cyaEFCcEhjRSIsInN1aV9hZGRyZXNzIjoiMHg2MGM2MjY4NGIwOGFiMjVhMzg1YWNkZmFlNWZkZTBkMmFiYmE0ODM0NzRlYmZkYzNhZjcxY2Y5MWE5MmQ1MDQyIiwiYXB0b3NfYWRkcmVzcyI6bnVsbCwiZW1haWwiOiJtdm1lbWlycm9yd29ybGRAZ21haWwuY29tIiwid2FsbGV0Ijp7ImV0aF9hZGRyZXNzIjoiMHg3YzMzRkM4OGMwRTgzM0YxNzQ4RTA3YjEzNjBkNjYxNTg4NjYwRmI0Iiwic29sX2FkZHJlc3MiOiI5RU1IcUxvNlhCNGlEcDIzd1NMQkNlWVRyQ2ZVUFR4NlFDa1cyaEFCcEhjRSIsInN1aV9hZGRyZXNzIjoiMHg2MGM2MjY4NGIwOGFiMjVhMzg1YWNkZmFlNWZkZTBkMmFiYmE0ODM0NzRlYmZkYzNhZjcxY2Y5MWE5MmQ1MDQyIiwiYXB0b3NfYWRkcmVzcyI6bnVsbH0sImNsaWVudF9pZCI6Ik5EdWpMQmlYcXdXNEdjT01DVWlUYlNCUVN0bXN1YzF0cTFobS5ZMFpxWEZjYy5taXJyb3J3b3JsZC5mdW4iLCJ0eXBlIjoiYWNjZXNzX3Rva2VuIiwicmVmcmVzaF90b2tlbl9pZCI6ODEyMTAsImlhdCI6MTY5NzE4ODE1OCwiZXhwIjoxNzA0OTY0MTU4LCJpc3MiOiJORHVqTEJpWHF3VzRHY09NQ1VpVGJTQlFTdG1zdWMxdHExaG0uWTBacVhGY2MubWlycm9yd29ybGQuZnVuIiwianRpIjoiYXV0aDoyMzczNiJ9.4yYQHa-1ghP09Hj5PvsmOM_HWwIyWPIBZJeolWQLMSE",
+2023/10/13 10:09:22.800 2813 2813 Debug MirrorSDK2.0.0         "refresh_token": "djXB-vEUU1cMk6xD0t76h",
+2023/10/13 10:09:22.800 2813 2813 Debug MirrorSDK2.0.0         "user": {"id":23736,"eth_address":null,"sol_address":null,"sui_address":null,"aptos_address":null,"email":"mvmemirrorworld@gmail.com","email_verified":true,"username":"magenta-pretty","main_user_id":null,"allow_spend":true,"has_security":false,"createdAt":"2023-09-13T10:59:56.000Z","updatedAt":"2023-09-13T11:04:07.000Z","is_subaccount":false,"wallet":{"eth_address":"0x7c33FC88c0E833F1748E07b1360d661588660Fb4","sol_address":"9EMHqLo6XB4iDp23wSLBCeYTrCfUPTx6QCkW2hABpHcE","sui_address":"0x60c62684b08ab25a385acdfae5fde0d2abba483474ebfdc3af71cf91a92d5042","aptos_address":null}}
+2023/10/13 10:09:22.800 2813 2813 Debug MirrorSDK2.0.0     }
+2023/10/13 10:09:22.803 2813 2813 Info Unity MirrorSDKUnity:Constant login callback runs.
+2023/10/13 10:09:22.803 2813 2813 Info Unity UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+2023/10/13 10:09:22.803 2813 2813 Info Unity UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+2023/10/13 10:09:22.803 2813 2813 Info Unity UnityEngine.Logger:Log (UnityEngine.LogType,object)
+2023/10/13 10:09:22.803 2813 2813 Info Unity UnityEngine.Debug:Log (object)
+2023/10/13 10:09:22.803 2813 2813 Info Unity MirrorworldSDK.Wrapper.MirrorWrapper:LogFlow (string) (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/Services/Implementations/Unity/MirrorWrapperUnityLaunch.cs:104)
+2023/10/13 10:09:22.803 2813 2813 Info Unity MirrorworldSDK.Wrapper.MirrorWrapper/<>c__DisplayClass13_0:<AndroidSetConstantLoginCb>b__0 (string) (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/MirrorMarketSDK/Runtime/Services/Implementations/Android/MirrorWrapperAndroidCross.cs:212)
+2023/10/13 10:09:22.803 2813 2813 Info Unity MirrorworldSDK.Wrapper.MirrorCallback:callback (string) (at C:/MirrorWorldFresh/mirrorworld-sdk-unity/Assets/Mir
+2023/10/13 10:09:22.813 2813 2813 Error Unity UnityException: TrySetSetString can only be called from the main thread.
+2023/10/13 10:09:22.813 2813 2813 Error Unity Constructors and field initializers will be executed from the loading thread when loading a scene.
+2023/10/13 10:09:22.813 2813 2813 Error Unity Don't use this function in the constructor or field initializers, instead move initialization code to the Awake or Start function.
+2023/10/13 10:09:22.813 2813 2813 Error Unity   at (wrapper managed-to-native) UnityEngine.PlayerPrefs.TrySetSetString(string,string)
+2023/10/13 10:09:22.813 2813 2813 Error Unity   at UnityEngine.PlayerPrefs.SetString (System.String key, System.String value) [0x00001] in /Users/bokken/buildslave/unity/build/Runtime/Export/PlayerPrefs/PlayerPrefs.bindings.cs:49 
+2023/10/13 10:09:22.813 2813 2813 Error Unity   at MirrorworldSDK.Wrapper.MirrorWrapper.SaveStringToLocal (System.String key, System.String value) [0x00001] in C:\MirrorWorldFresh\mirrorworld-sdk-unity\Assets\MirrorMarketSDK\Runtime\Services\Implementations\Unity\MirrorWrapperUnityUtils.cs:234 
+2023/10/13 10:09:22.813 2813 2813 Error Unity   at MirrorworldSDK.Wrapper.MirrorWrapper.UpdateRefreshToken (System.String newRefreshToken) [0x00008] in C:\MirrorWorldF
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue Handler (android.hardware.display.DisplayManagerGlobal$DisplayListenerDelegate) {cde84e7} sending message to a Handler on a dead thread
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue java.lang.IllegalStateException: Handler (android.hardware.display.DisplayManagerGlobal$DisplayListenerDelegate) {cde84e7} sending message to a Handler on a dead thread
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:567)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Handler.enqueueMessage(Handler.java:754)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Handler.sendMessageAtTime(Handler.java:703)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Handler.sendMessageDelayed(Handler.java:673)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Handler.sendMessage(Handler.java:611)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal$DisplayListenerDelegate.sendDisplayEvent(DisplayManagerGlobal.java:685)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal.handleDisplayEvent(DisplayManagerGlobal.java:333)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal.access$100(DisplayManagerGlobal.java:55)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal$DisplayManagerCallback.onDisplayEvent(DisplayManagerGlobal.java:671)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.hardware.display.IDisplayManagerCallback$Stub.onTransact(IDisplayManagerCallback.java:84)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Binder.execTransactInternal(Binder.java:1036)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Binder.execTransact(Binder.java:1003)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue Handler (android.hardware.display.DisplayManagerGlobal$DisplayListenerDelegate) {a6246e1} sending message to a Handler on a dead thread
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue java.lang.IllegalStateException: Handler (android.hardware.display.DisplayManagerGlobal$DisplayListenerDelegate) {a6246e1} sending message to a Handler on a dead thread
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:567)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Handler.enqueueMessage(Handler.java:754)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Handler.sendMessageAtTime(Handler.java:703)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Handler.sendMessageDelayed(Handler.java:673)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Handler.sendMessage(Handler.java:611)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal$DisplayListenerDelegate.sendDisplayEvent(DisplayManagerGlobal.java:685)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal.handleDisplayEvent(DisplayManagerGlobal.java:333)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal.access$100(DisplayManagerGlobal.java:55)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.hardware.display.DisplayManagerGlobal$DisplayManagerCallback.onDisplayEvent(DisplayManagerGlobal.java:671)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.hardware.display.IDisplayManagerCallback$Stub.onTransact(IDisplayManagerCallback.java:84)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Binder.execTransactInternal(Binder.java:1036)
+2023/10/13 10:09:22.929 2813 2905 Warn MessageQueue 	at android.os.Binder.execTransact(Binder.java:1003)
+2023/10/13 10:09:22.944 2813 2813 Info Unity onNewIntent
+2023/10/13 10:09:22.944 2813 2813 Debug Unity onActivityResumed: com.unity3d.player.UnityPlayerActivity@9ddabc8
+2023/10/13 10:09:22.946 2813 2813 Info Unity onResume
+2023/10/13 10:09:22.971 2813 2978 Debug Unity SetWindow 0 0xe6363808
+2023/10/13 10:09:22.972 2813 2978 Debug Unity SetWindow 0 0xe6363808
+2023/10/13 10:09:22.992 2813 2813 Info Unity windowFocusChanged: true
+
+
+
+
+
+[JAMIE] Unity Activity has resumed
+
+
+
+
+2023/10/13 10:09:22.993 2813 2978 Debug Unity AndroidDisplayManagerVulkan::AttachWindow(0xe6363808, 0)
+2023/10/13 10:09:22.997 2813 2978 Debug Unity InitializeOrResetSwapChain 1520x720 hdr=0 samples=0
+2023/10/13 10:09:23.026 2813 3341 Info SwappyDisplayManager Starting looper thread
+2023/10/13 10:09:23.034 2813 2978 Verbose SwappyVk SwappyVk initialized for VkDevice 0xb7310db0 using VK_GOOGLE_display_timing on Android
+2023/10/13 10:09:23.034 2813 2978 Info SwappyVk Returning refresh duration of 16666666 nsec (approx 60.000002 Hz)
+2023/10/13 10:09:23.056 2813 2978 Debug Unity Sensor :        Accelerometer ( 1) ; 0.002396 / 0.00s ; BMI160 Accelerometer / BOSCH 
+2023/10/13 10:09:23.063 2813 2978 Debug Unity Choreographer available: Enabling VSYNC timing
+2023/10/13 10:09:23.063 2813 2978 Debug Unity Found 1 interfaces on host motorola_moto_g(7)_power@192.168.1.147:
+2023/10/13 10:09:23.063 2813 2978 Debug Unity  0) 192.168.1.147
+2023/10/13 10:09:23.063 2813 2978 Debug Unity 
+2023/10/13 10:09:23.066 2813 2978 Debug Unity Multi-casting "[IP] 192.168.1.147 [Port] 55455 [Flags] 2 [Guid] 1626804016 [EditorId] 3870784527 [Version] 1048832 [Id] AndroidPlayer(11,motorola_moto_g(7)_power@192.168.1.147) [Debug] 0 [PackageName] AndroidPlayer [ProjectName] MirrorSDK" to [225.0.0.222:54997]...
+2023/10/13 10:09:23.098 2813 3342 Warn AudioTrack Use of stream types is deprecated for operations other than volume control
+2023/10/13 10:09:23.099 2813 3342 Warn AudioTrack See the documentation of AudioTrack() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+2023/10/13 10:09:23.105 2813 2813 Verbose MediaRouter Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+
+
+
+
+[JAMIE] Tapped on "GetWallet"
+
+
+
+2023/10/13 10:12:10.041 2813 2978 Error Unity NullReferenceException: Object reference not set to an instance of an object
+2023/10/13 10:12:10.041 2813 2978 Error Unity   at HandleLogin.GetWallet () [0x00001] in C:\MirrorWorldFresh\mirrorworld-sdk-unity\Assets\Scenes\Test\HandleLogin.cs:32 
+2023/10/13 10:12:10.041 2813 2978 Error Unity   at UnityEngine.Events.InvokableCall.Invoke () [0x00010] in /Users/bokken/buildslave/unity/build/Runtime/Export/UnityEvent/UnityEvent.cs:178 
+2023/10/13 10:12:10.041 2813 2978 Error Unity   at UnityEngine.Events.UnityEvent.Invoke () [0x00022] in /Users/bokken/buildslave/unity/build/Runtime/Export/UnityEvent/UnityEvent/UnityEvent_0.cs:58 
+2023/10/13 10:12:10.041 2813 2978 Error Unity   at UnityEngine.UI.Button.Press () [0x00027] in C:\MirrorWorldFresh\mirrorworld-sdk-unity\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Button.cs:70 
+2023/10/13 10:12:10.041 2813 2978 Error Unity   at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00010] in C:\MirrorWorldFresh\mirrorworld-sdk-unity\Library\PackageCache\com.unity.ugui@1.0.0\Runtime\UI\Core\Button.cs:114 
+2023/10/13 10:12:10.041 2813 2978 Error Unity   at UnityEngine.EventSyste
